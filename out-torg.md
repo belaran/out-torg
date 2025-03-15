@@ -1,11 +1,18 @@
 Out-Torg
 ====
 
-Une adaptation des règles de TORG à celles de Outgunned.
+Out-Torg est une adaptation des règles de TORG à celles de Outgunned. Le principe fondamentale de celle-ci est de remplacer, autant que possible, les règles et éléments de jeux de TORG par ceux définis dans Outgunned, et sinon d'adapter la mécanique à celle de Outgunned. L'objectif est également d'obtenir un système de jeu plus léger, donc certaines parties des mécanismes de TORG disparaissent purement et simplement.
 
-Les Possibilités correspondent à la Chance (Luck) et s'utilise selon les règles de Outgunned, mais également s'incrémente et décrement selon les cartes de Cosm.
+Cette adaptation s'appuie sur Outgunned, mais pioche également quelques éléments dans Outgunned Adventure.
 
-Cartes d'Action et de Destin disparaissent entièrement, seuls les Cartes de Cosm restent. Le concept de Moment Critique est simplement remplacer la notion de Spotlight de Outgunned (déclencher par la dépenses de 6 points de Chance/Possibilités).
+Fondamentaux
+----
+
+Les **Possibilités** sont remplacées (mécaniquement) par l'Adrénaline (Adrenaline) ou à la Chance (Luck) dans Outgunned - Adventure. Elles s'utilisent selon les règles de Outgunned, mais également s'incrémente et décrement selon les cartes de Cosm ou d'autres éléments narratifs propre à TORG. En jeu, cependant, la manipulation de l'Adrénaline ou de la Chance est considérée comme une utilisation des **Possibilités**.
+
+Les Cartes d'Action et de Destin disparaissent entièrement, seuls les Cartes de Cosm demeurent. Il faut adapter, au cas par cas, leur effet aux mécaniques de Outgunned. *Note : la suppression des cartes d'Actions et de Destin ait un choix de simplification, libre à vous de ne pas le retenir!*
+
+Le concept de **Moment Critique** est simplement remplacer la notion de Spotlight de Outgunned (déclencher par la dépenses de 6 points de Chance/Possibilités).
 
 Cyberimplants et Occultech s'adaptent relativement simplement aux règles de Outgunned (produire le catalogue associé reste à faire)
 
@@ -15,14 +22,15 @@ Réalités (Chap 6 de TORG)
 ----
 Dans les grandes lignes ce chapitre est inchangé, les concepts de Lois et d'Axiome s'ajoutent tels quels aux règles de Outgunned, avec les adaptations suivantes:
 
-**Contradiction**: il n'y a pas de test de Déconnection. Lorsqu'une action est une Contradiction la difficulté du test est doublée (Outgunned, p. 68). Si le personnage n'obtient qu'un des succès requis (par exemple, un basic au lieu de deux basic), il est déconnecté (mais l'action réussi tout de même). Si l'action est en contradiction avec la Zone et le Personnage, le test subit un désavantage de -1 (Outgunned, p. 65)
+**Contradiction**: il n'y a pas de test de Déconnection. Lorsqu'une action est une Contradiction, la difficulté du test est doublé (Outgunned, p. 64). Si le personnage n'obtient qu'un des succès requis (par exemple, un basic au lieu de deux basic), il est déconnecté (mais l'action réussi tout de même). Si l'action est en contradiction avec la Zone et le Personnage, le test subit un désavantage de -1 (Outgunned, p. 61).
 
 **Déferlement**: n'étant plus déclenché par les lignes de conflits des cartes d'action, un Déferlement devient un élément narratif que le Directeur (ou même un joueur, en échange d'un point de Chance) peut déclencher à partir du moment où une scène a inclus déjà deux tests à la difficulté doublé pour cause de Contradiction.
 
-**Déconnexion**: le personnage subit les effets narratifs de la Déconnexion telle que décrite dans les règles de TORG, cependant il peut encore utilise sa Chance (Possibilités), mais ses points disponibles sont réduits de moitié (tant qu'il est déconnecté) et il ne peut pas en regagner tant qu'il n'est pas reconnecté. Il ne peut utiliser de point de Chance pour activer de Feat (voir Atout).
+**Déconnexion**: le personnage subit les effets narratifs de la Déconnexion telle que décrite dans les règles de TORG, cependant il peut encore utilise sa Chance ou son Adrénaline (Possibilités), mais ses points disponibles sont réduits de moitié (tant qu'il est déconnecté) et il ne peut pas en regagner tant qu'il n'est pas reconnecté. Il ne peut utiliser de point de Chance pour activer de Feat (voir Atout). Être déconnecté est une Condition ("You look... Disconnected") et compte parmi les trois Conditions autorisés avant d'être Broken. La table peut décider qu'un personnage Broken par cette Condition déclenche un Déferlement.
 
-**Reconnexion**: au lieu d'un test de Realité, le personnage doit réussir un test de Focus dont la difficulté est doublé en Zone Mixte et désavantagé en plus en Zone Dominante.
-Hors combat, la reconnexion est toujours réussi quelque soit le résultat du test, mais un échec au test peut avoir d'autres conséquences, à déterminer par la table en respectant le principe de Outgunned (et Broken Compass) du "No Fail" (p.78, Outgunned Adventure). Si cette option est intéressante pour le récit, le Directeur ou le PJ concerné peut proposer que le personnage soit transformé à cause de l'échec. La perte d'un rang de Réalité et remplacé par un état (You feel... Unreal, *effet de jeu encore à déterminer*).
+**Reconnexion**: au lieu d'un test de Realité, le personnage doit réussir un test de Focus dont la difficulté est doublé en Zone Mixte et se fait avec un désavantage en plus en Zone Dominante.
+Hors combat, la reconnexion est toujours réussi quelque soit le résultat du test, mais un échec au test peut avoir d'autres conséquences, à déterminer par la table en respectant le principe de Outgunned du "No Fail" (p.76, Outgunned Adventure).
+Si cette option est intéressante pour le récit, le Directeur ou le PJ concerné peut proposer que le personnage soit transformé à cause de l'échec. La perte d'un rang de Réalité et remplacé par un état (You feel... Unreal, *effet de jeu encore à déterminer*).
 
 **Retirer une stelae**: *TBD*
 
@@ -31,15 +39,17 @@ Atouts
 
 Les prérequis à l'acquisition d'Atout décrits dans TORG peuvent s'appliquer ou être ignoré, c'est un point à discuter avec la table, au cas par cas.
 
-*Arts Magiques,Foi,Psioniques* utilisent les règles de Fantasy Quest (supplément Broken Compass What If..., p.76). (reste à produire un catalogue de sorts adaptés aux règles de Outgunned)
+*Arts Magiques,Foi,Psioniques* utilisent les règles de Fantasy Quest (supplément Broken Compass What If..., p.76), car je n'ai pas à disposition les suppléments Outgunned équivalents (Outgunned - Action Flicks). (reste à produire un catalogue de sorts, miracles, pouvoirs psioniques adaptés aux règles de Outgunned)
 
 Commandement
 ----
 
 **Chef Naturel** en dépensant un point de Chance, le personnage donne un Free Re-roll à un autre personnage (action gratuite, peut être fait à tous moment).
+
 *Ralliement* devient **Reassure** (Outgunned Adventure, p.58)
 *Soutien* devient **Teamwork** (mais à la faveur de celui que le personnage assiste)
-**Compagnons** disparait (aspect narratif)
+
+**Compagnons** disparait en tant qu'Atout. En cas d'adaptation d'une fiche TORG à Out-torg, le ou les compagnons deviennent simplement des Supporting Character.
 
 Cybertechnologie et Occultech
 ----
@@ -66,9 +76,9 @@ Elf
 
 **Gardien** confère un avantage aux tests de Stealth et de Awareness.
 
-*Loup Blanc* disparait (c'est un élément narratif)
+*Loup Blanc* disparait (c'est un élément narratif, qui peut également être implémenté à l'aide d'un Supporting Character).
 
-**Ensorceleur Elf** bénéficie d'un Free Re-Roll lorsqu'il tente de lancer un sort
+**Ensorceleur Elf** bénéficie d'un Free Re-Roll lorsqu'il tente de lancer un sort.
 
 Lumière
 ----
@@ -115,35 +125,35 @@ TODO
 Prouesses
 ----
 
-*Arme de prédilection* devient **Favored Weapon**
+*Arme de prédilection* devient **Favored Weapon** (Outgunned - Adventure)
 
-*Bagarreur* devient **Fighter**
+*Bagarreur* devient **Fighter** (Outgunned - Adventure)
 
-*Brute* devient **Big and Strong**
+*Brute* devient **Bodybuilder** (ou **Big and Strong** dans Outgunned - Adventure)
 
-**Conscience Environnementale** une fois par Scène, le personnage peut récupérer un point de Chance, avec l'accord du MJ, selon une action ou un évènement cohérant avec le nom de cet Atout. (alternativement, cet Atout peut devenir **Eye for Details**).
+**Conscience Environnementale** une fois par Scène, le personnage peut récupérer un point de Chance, avec l'accord du MJ, selon une action ou un évènement cohérant avec le nom de cet Atout. (alternativement, cet Atout peut devenir **Eye for Details** de Outgunned - Adventure).
 
-*Double Tir* devient **Gunslinger**
+*Double Tir* devient **Gunslinger**.
 
-*Endurance* devient **Hardened**
+*Endurance* devient **Hard to Kill** ou **Hardened** (Outgunned - Adventure)
 
-*Garde du corps* devient **Bodyguards**
+*Garde du corps* devient **Bodyguard** (Outgunned - Adventure)
 
 *Implacable* devient TBD ou disparait.
 
-*Indomptable* devient **Thrill Seeker**
+*Indomptable* devient **Thrill Seeker**. (Outgunned - Adventure)
 
-*Maitrise* devient **Specialist**
+*Maitrise* devient **Specialist**. (Outgunned - Adventure)
 
-*Obstiné* devient **Maverick**
+*Obstiné* devient **Maverick**. (Outgunned - Adventure)
 
 *Revanchard* disparait.
 
-*Survivant* devient **Too Young To Die**
+*Survivant* devient **Too Young To Die**.
 
-*Tireur d'Elite* devient (également) **Gunslinger**
+*Tireur d'Elite* devient (également) **Gunslinger**.
 
-*Tornade* devient **Fast Reflexes**
+*Tornade* devient **Fast Reflexes**. (Outgunned - Adventure)
 
 Psioniques
 ----
@@ -153,4 +163,5 @@ TODO
 Réalité
 ----
 
+*Adaptabilité*
 
