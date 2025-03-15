@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/style.css">
-
 Out-Torg
 ====
 
