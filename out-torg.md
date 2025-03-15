@@ -18,9 +18,10 @@ Cyberimplants et Occultech s'adaptent relativement simplement aux règles de Out
 
 Les Attributs et Compétences sont remplacés par ceux et celles de Outgunned.
 
-Réalités (Chap 6 de TORG)
-----
-Dans les grandes lignes ce chapitre est inchangé, les concepts de Lois et d'Axiome s'ajoutent tels quels aux règles de Outgunned, avec les adaptations suivantes:
+Réalités
+---
+
+Dans les grandes lignes le chapitre 6 de TORG Eternity est inchangé, les concepts de Lois et d'Axiome s'ajoutent tels quels aux règles de Outgunned, avec les adaptations suivantes:
 
 **Contradiction**: il n'y a pas de test de Déconnection. Lorsqu'une action est une Contradiction, la difficulté du test est doublé (Outgunned, p. 64). Si le personnage n'obtient qu'un des succès requis (par exemple, un basic au lieu de deux basic), il est déconnecté (mais l'action réussi tout de même). Si l'action est en contradiction avec la Zone et le Personnage, le test subit un désavantage de -1 (Outgunned, p. 61).
 
