@@ -118,7 +118,7 @@ Pouvoir du Ki
 
 **Parade Offensive** si le personage réussit sa Réaction, il peut encaisser un point de Grit pour obtenir immédiatement une nouvelle Action pour attaquer son opposant.
 
-Pouvoirs Pulp
+Pouvoirs Pulps
 ----
 
 TODO
@@ -164,5 +164,20 @@ TODO
 Réalité
 ----
 
-*Adaptabilité*
+**Adaptabilité** (requiert Vagabond des Royaumes) inchangé.
 
+**Augmentation d’Axiome** demeure inchangé.
+
+**Conteur** TBD
+
+*Contre* pourrait être utiliser pour bloquer des Enemy Feats utilisant les Possibilités, mais le plus simple est probablement de le faire disparaitre.
+
+**Invocateur de Tempête** TBD
+
+**Prodige** Le personnage commence chaque Acte avec un point d'Adrénaline ou de Chance en plus.
+
+**Tenace** le personnage augmente de 1 son Damage Control (Outgunned, p. 82).
+
+**Transfert de Possibilités** le personnage peut transférer un point de Chance ou d'Adrénaline vers un autre personnage (action gratuite).
+
+**Vagabond des Royaumes** le personnage ignore la première Déconnexion de l'Acte et bénéficie d'un avantage pour aux tests de Déconnexion.
