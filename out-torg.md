@@ -12,9 +12,11 @@ Les **Possibilités** sont remplacées (mécaniquement) par l'Adrénaline (Adren
 
 Les Cartes d'Action et de Destin disparaissent entièrement, seuls les Cartes de Cosm demeurent. Il faut adapter, au cas par cas, leur effet aux mécaniques de Outgunned. *Note : la suppression des cartes d'Actions et de Destin ait un choix de simplification, libre à vous de ne pas le retenir!*
 
-Le concept de **Moment Critique** est simplement remplacer la notion de Spotlight de Outgunned (déclencher par la dépenses de 6 points de Chance/Possibilités).
+Le concept de **Moment Critique** est simplement remplacé la notion de Spotlight de Outgunned (déclenché par la dépenses de 6 points de Chance/Possibilités ou par l'utilisation d'un Spotlight). La contrainte de TORG d'un Moment Critique par Acte vient restreindre l'utilisation des Spotlight.
 
-Cyberimplants et Occultech s'adaptent relativement simplement aux règles de Outgunned (produire le catalogue associé reste à faire)
+Les quatre **Cartes de Gloire** du paquet Destin disparaissent avec les autres, mais tous test ayant un succès JACKPOT! (6 dés avec le même score), est équivalent à l'utilisation d'une carte Gloire. Tous les personnages regagnet donc une Possibilité (Chance/Adrénaline). Le maximum de Possibilités (Chance/Adrénaline) est également augmenté de 1 jusqu'à la fin de l'Acte. Les effets de la Gloire en jeu (Restauration, p. 183) s'appliquent aussi à cette occasion.
+
+Les Cyberimplants et Occultech s'adaptent relativement simplement aux règles de Outgunned (produire le catalogue associé reste à faire ou réutiliser l'éventuel catalogue d'implants du suppléments *Outgunned - Action Flicks* qui contient l'Action Flick *Neon Noir*).
 
 Les Attributs et Compétences sont remplacés par ceux et celles de Outgunned.
 
