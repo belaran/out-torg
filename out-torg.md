@@ -12,7 +12,11 @@ Les **Possibilités** sont remplacées (mécaniquement) par l'Adrénaline (Adren
 
 Contrairement à *Outgunned*, mais comme à *TORG*, les Chevaliers Tempêtes commencent avec **3 Possibilités**.
 
-Le concept de **Moment Critique** est simplement remplacé la notion de Spotlight de Outgunned (déclenché par la dépenses de 6 points de Chance/Possibilités ou par l'utilisation d'un Spotlight). La contrainte de TORG d'un Moment Critique par Acte vient restreindre l'utilisation des Spotlight.
+Les Cartes d'Action et de Destin disparaissent entièrement, seuls les Cartes de Cosm demeurent. Il faut adapter, au cas par cas, leur effet aux mécaniques de Outgunned. À la discrétion de la table, les Chevaliers Tempêtes peuvent recevoir plusieurs cartes de Cosm (au lieu d'une seule), mais ils ne peuvent en jouer qu'une seule par Acte et doivent mettre les autres à la Défausse. Il est suggéré de distribuer 3 cartes à un ou deux Chevaliers Tempêtes ou seulement 2 cartes si le groupe est plus nombreux.
+
+*Note : la suppression des cartes d'Actions et de Destin ait un choix de simplification, libre à vous de ne pas le retenir!*
+
+Le concept de **Moment Critique** est simplement remplacé la notion de **Spotlight** de Outgunned (déclenché par la dépenses de 6 points d'Adrénaline/Possibilités ou par l'utilisation d'un Spotlight). La contrainte de TORG d'un Moment Critique par Acte vient restreindre l'utilisation des Spotlight.
 
 Les quatre **Cartes de Gloire** du paquet Destin disparaissent avec les autres, mais tous test ayant un succès JACKPOT! (6 dés avec le même score), est équivalent à l'utilisation d'une carte Gloire. Tous les personnages regagnet donc une Possibilité (Chance/Adrénaline). Le maximum de Possibilités (Chance/Adrénaline) est également augmenté de 1 jusqu'à la fin de l'Acte. Les effets de la Gloire en jeu (Restauration, p. 183) s'appliquent aussi à cette occasion.
 
