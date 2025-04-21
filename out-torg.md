@@ -10,7 +10,7 @@ Fondamentaux
 
 Les **Possibilités** sont remplacées (mécaniquement) par l'Adrénaline (Adrenaline) ou à la Chance (Luck) dans Outgunned - Adventure. Elles s'utilisent selon les règles de Outgunned, mais également s'incrémente et décrement selon les cartes de Cosm ou d'autres éléments narratifs propre à TORG. En jeu, cependant, la manipulation de l'Adrénaline ou de la Chance est considérée comme une utilisation des **Possibilités**.
 
-Les Cartes d'Action et de Destin disparaissent entièrement, seuls les Cartes de Cosm demeurent. Il faut adapter, au cas par cas, leur effet aux mécaniques de Outgunned. *Note : la suppression des cartes d'Actions et de Destin ait un choix de simplification, libre à vous de ne pas le retenir!*
+Contrairement à *Outgunned*, mais comme à *TORG*, les Chevaliers Tempêtes commencent avec **3 Possibilités**.
 
 Le concept de **Moment Critique** est simplement remplacé la notion de Spotlight de Outgunned (déclenché par la dépenses de 6 points de Chance/Possibilités ou par l'utilisation d'un Spotlight). La contrainte de TORG d'un Moment Critique par Acte vient restreindre l'utilisation des Spotlight.
 
